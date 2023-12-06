@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarelsabagh" alt="omarelsabagh" /></a> </p>
 
-- 🔭 I’m currently working on [Venom Store](https://github.com/omarelsabagh/Online-Shop)
+- 🔭 I’m currently working on [Problem Solving](https://github.com/omarelsabagh/C-Problem-solving)
 
 - 🌱 I’m currently learning **MongoDB, NextJS**
 
