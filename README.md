@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Abdelhamid</h1>
+<h1 align="center">Hi 👋, I'm Omar Abdelhamid AKA. nightblue</h1>
 <h3 align="center">A passionate fullstack developer from Egypt.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarelsabagh&label=Profile%20views&color=0e75b6&style=flat" alt="omarelsabagh" /> </p>
 
@@ -15,6 +15,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QPDnR_EDbOAK4Ll59cf2swdY1zn9RMCQ/view?usp=sharing](https://drive.google.com/file/d/1QPDnR_EDbOAK4Ll59cf2swdY1zn9RMCQ/view?usp=sharing)
 
 - ⚡ Fun fact **The code speaks for itself "Omar 2023"**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
