@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **omarhamid4work@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QPDnR_EDbOAK4Ll59cf2swdY1zn9RMCQ/view?usp=sharing](https://drive.google.com/file/d/1QPDnR_EDbOAK4Ll59cf2swdY1zn9RMCQ/view?usp=sharing)
-
 - ⚡ Fun fact **The code speaks for itself**
 
 
